@@ -194,13 +194,13 @@ Window.SetBackgroundBottomColor (0.39, 0.43, 0.51);  # an equally nice colour on
 
 bits_per_pixel = Window.GetBitsPerPixel ();
 if (bits_per_pixel == 4) {
-    logo_filename = "debian_logo16.png";
+    logo_filename = "elive_logo16.png";
     progress_dot_off_filename = "progress_dot_off16.png";
     progress_dot_on_filename = "progress_dot_on16.png";
     password_dot_filename = "password_dot.png";
     password_field_filename = "password_field16.png";
 } else {
-    logo_filename = "debian_logo.png";
+    logo_filename = "elive_logo.png";
     progress_dot_off_filename = "progress_dot_off.png";
     progress_dot_on_filename = "progress_dot_on.png";
     password_dot_filename = "password_dot.png";
