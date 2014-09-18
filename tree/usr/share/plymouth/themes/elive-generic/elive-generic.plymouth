@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Default generic splash theme for Elive
+Description=A theme that features a blank background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/elive-generic
+ScriptFile=/usr/share/plymouth/themes/elive-generic/elive-generic.script
